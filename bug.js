@@ -1,0 +1,1 @@
+The Firebase Realtime Database sometimes throws a `PERMISSION_DENIED` error even when the security rules appear to be correctly configured. This can be especially frustrating when testing locally or using emulators.
